@@ -1,0 +1,623 @@
+[
+    {
+        "text": "SALARY",
+        "bounding_box": {
+            "x": 206,
+            "y": 35,
+            "width": 73,
+            "height": 13
+        }
+    },
+    {
+        "text": "SLIP",
+        "bounding_box": {
+            "x": 286,
+            "y": 35,
+            "width": 38,
+            "height": 13
+        }
+    },
+    {
+        "text": "‘exceltemplate.NET",
+        "bounding_box": {
+            "x": 24,
+            "y": 38,
+            "width": 110,
+            "height": 26
+        }
+    },
+    {
+        "text": "CONFIDEN",
+        "bounding_box": {
+            "x": 395,
+            "y": 43,
+            "width": 79,
+            "height": 13
+        }
+    },
+    {
+        "text": "TIAL:",
+        "bounding_box": {
+            "x": 481,
+            "y": 39,
+            "width": 36,
+            "height": 26
+        }
+    },
+    {
+        "text": "anuary",
+        "bounding_box": {
+            "x": 233,
+            "y": 64,
+            "width": 38,
+            "height": 9
+        }
+    },
+    {
+        "text": "2018",
+        "bounding_box": {
+            "x": 275,
+            "y": 64,
+            "width": 21,
+            "height": 7
+        }
+    },
+    {
+        "text": "Name",
+        "bounding_box": {
+            "x": 24,
+            "y": 90,
+            "width": 24,
+            "height": 7
+        }
+    },
+    {
+        "text": "Wayne",
+        "bounding_box": {
+            "x": 149,
+            "y": 90,
+            "width": 26,
+            "height": 9
+        }
+    },
+    {
+        "text": "Doorpize",
+        "bounding_box": {
+            "x": 178,
+            "y": 90,
+            "width": 40,
+            "height": 9
+        }
+    },
+    {
+        "text": "Tile",
+        "bounding_box": {
+            "x": 273,
+            "y": 90,
+            "width": 17,
+            "height": 7
+        }
+    },
+    {
+        "text": "Cleaning",
+        "bounding_box": {
+            "x": 398,
+            "y": 90,
+            "width": 35,
+            "height": 9
+        }
+    },
+    {
+        "text": "Serve",
+        "bounding_box": {
+            "x": 436,
+            "y": 90,
+            "width": 30,
+            "height": 7
+        }
+    },
+    {
+        "text": "Stat",
+        "bounding_box": {
+            "x": 469,
+            "y": 90,
+            "width": 19,
+            "height": 7
+        }
+    },
+    {
+        "text": "Employee",
+        "bounding_box": {
+            "x": 24,
+            "y": 108,
+            "width": 40,
+            "height": 9
+        }
+    },
+    {
+        "text": "0",
+        "bounding_box": {
+            "x": 67,
+            "y": 108,
+            "width": 8,
+            "height": 7
+        }
+    },
+    {
+        "text": "Directorate",
+        "bounding_box": {
+            "x": 269,
+            "y": 96,
+            "width": 50,
+            "height": 28
+        }
+    },
+    {
+        "text": "Operation",
+        "bounding_box": {
+            "x": 398,
+            "y": 108,
+            "width": 40,
+            "height": 9
+        }
+    },
+    {
+        "text": "Department",
+        "bounding_box": {
+            "x": 269,
+            "y": 115,
+            "width": 52,
+            "height": 28
+        }
+    },
+    {
+        "text": "General",
+        "bounding_box": {
+            "x": 398,
+            "y": 126,
+            "width": 31,
+            "height": 7
+        }
+    },
+    {
+        "text": "Aiats",
+        "bounding_box": {
+            "x": 432,
+            "y": 126,
+            "width": 27,
+            "height": 7
+        }
+    },
+    {
+        "text": "Earnings",
+        "bounding_box": {
+            "x": 308,
+            "y": 150,
+            "width": 43,
+            "height": 9
+        }
+    },
+    {
+        "text": "Deductions",
+        "bounding_box": {
+            "x": 431,
+            "y": 150,
+            "width": 57,
+            "height": 7
+        }
+    },
+    {
+        "text": "Basi",
+        "bounding_box": {
+            "x": 24,
+            "y": 176,
+            "width": 23,
+            "height": 7
+        }
+    },
+    {
+        "text": "Salary",
+        "bounding_box": {
+            "x": 50,
+            "y": 176,
+            "width": 24,
+            "height": 9
+        }
+    },
+    {
+        "text": "200000",
+        "bounding_box": {
+            "x": 345,
+            "y": 176,
+            "width": 33,
+            "height": 7
+        }
+    },
+    {
+        "text": "Meal",
+        "bounding_box": {
+            "x": 24,
+            "y": 194,
+            "width": 20,
+            "height": 7
+        }
+    },
+    {
+        "text": "Allowanoe",
+        "bounding_box": {
+            "x": 47,
+            "y": 194,
+            "width": 42,
+            "height": 7
+        }
+    },
+    {
+        "text": "0000",
+        "bounding_box": {
+            "x": 352,
+            "y": 194,
+            "width": 26,
+            "height": 7
+        }
+    },
+    {
+        "text": "Transportation",
+        "bounding_box": {
+            "x": 24,
+            "y": 212,
+            "width": 61,
+            "height": 9
+        }
+    },
+    {
+        "text": "Allowance",
+        "bounding_box": {
+            "x": 88,
+            "y": 212,
+            "width": 42,
+            "height": 7
+        }
+    },
+    {
+        "text": "0000",
+        "bounding_box": {
+            "x": 352,
+            "y": 212,
+            "width": 26,
+            "height": 7
+        }
+    },
+    {
+        "text": "Medea",
+        "bounding_box": {
+            "x": 24,
+            "y": 230,
+            "width": 32,
+            "height": 7
+        }
+    },
+    {
+        "text": "Allowance",
+        "bounding_box": {
+            "x": 59,
+            "y": 230,
+            "width": 42,
+            "height": 7
+        }
+    },
+    {
+        "text": "0000",
+        "bounding_box": {
+            "x": 352,
+            "y": 230,
+            "width": 26,
+            "height": 7
+        }
+    },
+    {
+        "text": "Fstiement",
+        "bounding_box": {
+            "x": 24,
+            "y": 248,
+            "width": 45,
+            "height": 7
+        }
+    },
+    {
+        "text": "insurance",
+        "bounding_box": {
+            "x": 72,
+            "y": 248,
+            "width": 39,
+            "height": 7
+        }
+    },
+    {
+        "text": "2500",
+        "bounding_box": {
+            "x": 487,
+            "y": 248,
+            "width": 21,
+            "height": 7
+        }
+    },
+    {
+        "text": "ta",
+        "bounding_box": {
+            "x": 24,
+            "y": 266,
+            "width": 14,
+            "height": 7
+        }
+    },
+    {
+        "text": "2500",
+        "bounding_box": {
+            "x": 487,
+            "y": 263,
+            "width": 21,
+            "height": 7
+        }
+    },
+    {
+        "text": "Total",
+        "bounding_box": {
+            "x": 24,
+            "y": 327,
+            "width": 21,
+            "height": 7
+        }
+    },
+    {
+        "text": "2,900.00",
+        "bounding_box": {
+            "x": 336,
+            "y": 327,
+            "width": 41,
+            "height": 7
+        }
+    },
+    {
+        "text": "50.00",
+        "bounding_box": {
+            "x": 481,
+            "y": 327,
+            "width": 26,
+            "height": 7
+        }
+    },
+    {
+        "text": "Payment",
+        "bounding_box": {
+            "x": 24,
+            "y": 345,
+            "width": 36,
+            "height": 9
+        }
+    },
+    {
+        "text": "Date",
+        "bounding_box": {
+            "x": 63,
+            "y": 345,
+            "width": 19,
+            "height": 7
+        }
+    },
+    {
+        "text": "January",
+        "bounding_box": {
+            "x": 149,
+            "y": 345,
+            "width": 31,
+            "height": 9
+        }
+    },
+    {
+        "text": "28",
+        "bounding_box": {
+            "x": 183,
+            "y": 345,
+            "width": 9,
+            "height": 7
+        }
+    },
+    {
+        "text": "2007",
+        "bounding_box": {
+            "x": 197,
+            "y": 345,
+            "width": 17,
+            "height": 7
+        }
+    },
+    {
+        "text": "Bank",
+        "bounding_box": {
+            "x": 24,
+            "y": 363,
+            "width": 21,
+            "height": 7
+        }
+    },
+    {
+        "text": "Name",
+        "bounding_box": {
+            "x": 48,
+            "y": 363,
+            "width": 24,
+            "height": 7
+        }
+    },
+    {
+        "text": "Bank",
+        "bounding_box": {
+            "x": 149,
+            "y": 363,
+            "width": 21,
+            "height": 7
+        }
+    },
+    {
+        "text": "of",
+        "bounding_box": {
+            "x": 173,
+            "y": 363,
+            "width": 8,
+            "height": 7
+        }
+    },
+    {
+        "text": "Ametios",
+        "bounding_box": {
+            "x": 184,
+            "y": 363,
+            "width": 34,
+            "height": 7
+        }
+    },
+    {
+        "text": "2,850.00",
+        "bounding_box": {
+            "x": 369,
+            "y": 361,
+            "width": 48,
+            "height": 11
+        }
+    },
+    {
+        "text": "Bank",
+        "bounding_box": {
+            "x": 24,
+            "y": 381,
+            "width": 21,
+            "height": 7
+        }
+    },
+    {
+        "text": "Account",
+        "bounding_box": {
+            "x": 48,
+            "y": 381,
+            "width": 35,
+            "height": 7
+        }
+    },
+    {
+        "text": "Name",
+        "bounding_box": {
+            "x": 86,
+            "y": 381,
+            "width": 24,
+            "height": 7
+        }
+    },
+    {
+        "text": "Bank",
+        "bounding_box": {
+            "x": 24,
+            "y": 399,
+            "width": 21,
+            "height": 7
+        }
+    },
+    {
+        "text": "Account",
+        "bounding_box": {
+            "x": 48,
+            "y": 399,
+            "width": 35,
+            "height": 7
+        }
+    },
+    {
+        "text": "#",
+        "bounding_box": {
+            "x": 86,
+            "y": 399,
+            "width": 5,
+            "height": 7
+        }
+    },
+    {
+        "text": "Wayne",
+        "bounding_box": {
+            "x": 149,
+            "y": 381,
+            "width": 26,
+            "height": 9
+        }
+    },
+    {
+        "text": "Deore",
+        "bounding_box": {
+            "x": 178,
+            "y": 381,
+            "width": 40,
+            "height": 9
+        }
+    },
+    {
+        "text": "seo4se7290",
+        "bounding_box": {
+            "x": 149,
+            "y": 399,
+            "width": 47,
+            "height": 7
+        }
+    },
+    {
+        "text": "‘Two",
+        "bounding_box": {
+            "x": 307,
+            "y": 389,
+            "width": 17,
+            "height": 7
+        }
+    },
+    {
+        "text": "Thousand",
+        "bounding_box": {
+            "x": 327,
+            "y": 389,
+            "width": 153,
+            "height": 9
+        }
+    },
+    {
+        "text": "Eight",
+        "bounding_box": {
+            "x": 370,
+            "y": 377,
+            "width": 22,
+            "height": 28
+        }
+    },
+    {
+        "text": "oncted",
+        "bounding_box": {
+            "x": 398,
+            "y": 377,
+            "width": 29,
+            "height": 28
+        }
+    },
+    {
+        "text": "Fie",
+        "bounding_box": {
+            "x": 431,
+            "y": 377,
+            "width": 17,
+            "height": 28
+        }
+    },
+    {
+        "text": "Coats",
+        "bounding_box": {
+            "x": 452,
+            "y": 377,
+            "width": 31,
+            "height": 28
+        }
+    }
+]
